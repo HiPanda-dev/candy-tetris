@@ -1,0 +1,48 @@
+{
+  "frameRate": 60,
+  "height": 854,
+  "animRate": 60,
+  "project_type": "javascript",
+  "id": "scene",
+  "landscape": false,
+  "showFPS": false,
+  "console": false,
+  "ads": false,
+  "title": "Tetra",
+  "desktopFullWidth": false,
+  "languages": [
+    "en",
+    "ru",
+    "de",
+    "pt",
+    "it",
+    "fr",
+    "es",
+    "tr",
+    "nl",
+    "pl"
+  ],
+  "width": 640,
+  "debugMode": 0,
+  "renderMode": 1,
+  "name": "Tetra-v1.3r",
+  "language": null,
+  "fonts": [
+    {
+      "src": "font.ttf",
+      "scale": 1.2,
+      "name": "Foo"
+    }
+  ],
+  "pixtel": false,
+  "assetsDir": "res",
+  "musicVolume": 0.2,
+  "defaults": {
+    "sound": true,
+    "retries": 0,
+    "plays": 0,
+    "coins": 50,
+    "music": true,
+    "retriesTime": 0
+  }
+}
